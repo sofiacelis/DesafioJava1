@@ -4,8 +4,6 @@ public class Vigas{
     double comprimento;
     double volumeConcreto;
     
-    //set()
-    
     public void setBase(double _base){
         this.base = _base;
     }
@@ -17,8 +15,6 @@ public class Vigas{
      public void setComprimento(double _comprimento){
         this.comprimento = _comprimento;
     }
-    
-    // get()
     
     public double getBase(){
         return base;
